@@ -1,4 +1,4 @@
-![](https://i0.wp.com/cdnimg101.mlychee.com/audio_cover/2022/07/25/2953882713987513863_600x600.jpg)
+![](https://i0.wp.com/raw.githubusercontent.com/nonfm/nonfm.github.io/main/images/podcast-01.jpg)
 
 **听歌部部员们的某些入坑经历 其一**　[下载](https://cdn.gzlzfm.com/audio/2022/07/25/2953882712147506694_ud.mp3)
 
