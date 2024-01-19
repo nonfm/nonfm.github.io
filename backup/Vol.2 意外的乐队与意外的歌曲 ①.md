@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/nonfm/nonfm.github.io/main/images/podcast-02.jpg)
+![](https://i0.wp.com/cdnimg101.gzlzfm.com/audio_cover/2022/09/23/2965045467135084551_600x600.jpg)
 
 **这场二次元Party是谁还没入场 其一**　[下载](https://cdn.gzlzfm.com/audio/2022/09/23/2965045467135083526_ud.mp3)
 
