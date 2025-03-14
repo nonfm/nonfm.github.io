@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="/styles.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <atom:link href="https://nonfm.onrender.com/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" xmlns="http://www.w3.org/2005/Atom" />
+  <title>Non-Rock Radio</title>
+  <link>https://nonfm.onrender.com</link>
+  <language>zh</language>
+  <copyright>Non-Rock Radio</copyright>
+  <podcast:locked>yes</podcast:locked>
+    <podcast:guid>708ce3b3-1cdb-5415-864a-ec21195fb43f</podcast:guid>
+    <itunes:author>nonrockradio</itunes:author>
+  <itunes:type>episodic</itunes:type>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:subtitle>一个不局限风格的 J-ROCK 电台</itunes:subtitle>
+  <itunes:summary><![CDATA[<p>Non-Rock Radio 是一个不局限风格的 J-Rock 电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。<br><br>微博：<a href="https://weibo.com/nonrockradio">https://weibo.com/nonrockradio</a>ㅤ<br>关于我们：<a href="https://nonfm.onrender.com">https://nonfm.onrender.com</a></p>]]></itunes:summary>
+  <description><![CDATA[<p>Non-Rock Radio 是一个不局限风格的 J-Rock 电台，由几名喜欢日本音乐的爱好者组成，Non 为 nonsense 的简写，目的是给大家分享自己喜欢的音乐。<br><br>微博：<a href="https://weibo.com/nonrockradio">https://weibo.com/nonrockradio</a>ㅤ<br>关于我们：<a href="https://nonfm.onrender.com">https://nonfm.onrender.com</a></p>]]></description>
+  <itunes:keywords>音乐, 日本摇滚, 邦摇, 日摇, 日音, 二次元, 摇滚, 朋克, 动漫, 后摇, j-rock, j-pop, rock, punk</itunes:keywords>
+  <itunes:owner>
+    <itunes:name>nonrockradio</itunes:name>
+    <itunes:email>nonfm@vivaldi.net</itunes:email>
+  </itunes:owner>
+  <image>
+     <url>https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/non.jpg</url>
+     <title>Non-Rock Radio</title>
+     <link>https://nonfm.onrender.com</link>
+  </image>
+  <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/non.jpg" />
+  <itunes:category text="Music">
+    <itunes:category text="Music Interviews" />
+  </itunes:category>
+  <itunes:category text="Music">
+    <itunes:category text="Music Commentary" />
+  </itunes:category>
+  <itunes:category text="Leisure">
+    <itunes:category text="Animation &amp; Manga" />
+  </itunes:category>
+  <item>
+    <itunes:title>Vol.6 二〇二四年度日系演出总结及展望</itunes:title>
+    <title>Vol.6 二〇二四年度日系演出总结及展望</title>
+    <itunes:summary><![CDATA[<p>年度盘点丨南梦宫 广寒宫 どっちが好き？<br><br><strong>本期嘉宾</strong>：衣者+纪田+浪姐<br><strong>本期主播</strong>：文森+碳+浪姐+板板<br><br>2024年，我台听歌部紧密围绕日本摇滚工作，按照钱包实力进行部署，以秀动大麦闲鱼为指导，全面贯彻落实“应看尽看”、“为什么我不是沪爷”的要求，深入演出一线现场，在组织乐迷、引导乐迷、服务乐迷等方面做了大量的工作，取得了较好的成效。现将全年主要工作总结如下：<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:02:11 衣者-演出的评价标准<br>00:03:16 衣者-国内最佳：THE NOVEMBERS<br>00:09:01 衣者-海外最佳：a flood of circle<br>00:14:27 衣者-略感遗憾：Homecomings & Bialystocks 拼盘<br>00:17:46 衣者-想去但没去：ZAZEN BOYS、LITE<br>00:19:06 纪田-演出的评价标准<br>00:20:44 纪田-国内最佳：ずっと真夜中でいいのに。<br>00:29:20 纪田-国内最佳：TK from 凛として時雨<br>00:32:00 纪田-略感遗憾：LiSA<br>00:35:38 纪田-海外最佳：Nothing's Carved In Stone<br>00:41:16 浪姐-最佳演出：TK from 凛として時雨<br>00:43:38 浪姐-最佳演出：ずっと真夜中でいいのに。<br>00:48:30 浪姐-惊喜演出：THE NOVEMBERS<br>00:51:05 浪姐-惊喜演出：ラブリーサマーちゃん<br>00:54:21 浪姐-年度遗憾：さユり<br>00:57:04 浪姐-惊喜演出：LITE<br>00:57:43 浪姐-略感遗憾：TK from 凛として時雨、LITE、androp<br>01:00:40 浪姐-想去但没能去：ELLEGARDEN和ZAZEN BOYS<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:03:22 THE NOVEMBERS - 37.2°<br>00:07:25 THE NOVEMBERS - ANGELS<br>00:09:14 a flood of circle - I'M FREE<br>00:20:50 ずっと真夜中でいいのに。 - MILABO<br>00:29:29 TK from 凛として時雨 - クジャクジャノマアムアイア -TV edit- (Instrumental)<br>00:36:07 Nothing's Carved In Stone - November 15th (Live)<br>00:41:20 TK from 凛として時雨 - first death (TV edit)<br>00:43:51 ずっと真夜中でいいのに。 - 花一匁<br>00:48:40 THE NOVEMBERS - 美しい火<br>00:51:55 ラブリーサマーちゃん - 水星<br>00:54:32 さユり - ミカヅキ-「め」弾き語りver.<br>00:57:10 LITE - Infinite Mirror</p>]]></itunes:summary>
+    <description><![CDATA[<p>年度盘点丨南梦宫 广寒宫 どっちが好き？<br><br><strong>本期嘉宾</strong>：衣者+纪田+浪姐<br><strong>本期主播</strong>：文森+碳+浪姐+板板<br><br>2024年，我台听歌部紧密围绕日本摇滚工作，按照钱包实力进行部署，以秀动大麦闲鱼为指导，全面贯彻落实“应看尽看”、“为什么我不是沪爷”的要求，深入演出一线现场，在组织乐迷、引导乐迷、服务乐迷等方面做了大量的工作，取得了较好的成效。现将全年主要工作总结如下：<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:02:11 衣者-演出的评价标准<br>00:03:16 衣者-国内最佳：THE NOVEMBERS<br>00:09:01 衣者-海外最佳：a flood of circle<br>00:14:27 衣者-略感遗憾：Homecomings & Bialystocks 拼盘<br>00:17:46 衣者-想去但没去：ZAZEN BOYS、LITE<br>00:19:06 纪田-演出的评价标准<br>00:20:44 纪田-国内最佳：ずっと真夜中でいいのに。<br>00:29:20 纪田-国内最佳：TK from 凛として時雨<br>00:32:00 纪田-略感遗憾：LiSA<br>00:35:38 纪田-海外最佳：Nothing's Carved In Stone<br>00:41:16 浪姐-最佳演出：TK from 凛として時雨<br>00:43:38 浪姐-最佳演出：ずっと真夜中でいいのに。<br>00:48:30 浪姐-惊喜演出：THE NOVEMBERS<br>00:51:05 浪姐-惊喜演出：ラブリーサマーちゃん<br>00:54:21 浪姐-年度遗憾：さユり<br>00:57:04 浪姐-惊喜演出：LITE<br>00:57:43 浪姐-略感遗憾：TK from 凛として時雨、LITE、androp<br>01:00:40 浪姐-想去但没能去：ELLEGARDEN和ZAZEN BOYS<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:03:22 THE NOVEMBERS - 37.2°<br>00:07:25 THE NOVEMBERS - ANGELS<br>00:09:14 a flood of circle - I'M FREE<br>00:20:50 ずっと真夜中でいいのに。 - MILABO<br>00:29:29 TK from 凛として時雨 - クジャクジャノマアムアイア -TV edit- (Instrumental)<br>00:36:07 Nothing's Carved In Stone - November 15th (Live)<br>00:41:20 TK from 凛として時雨 - first death (TV edit)<br>00:43:51 ずっと真夜中でいいのに。 - 花一匁<br>00:48:40 THE NOVEMBERS - 美しい火<br>00:51:55 ラブリーサマーちゃん - 水星<br>00:54:32 さユり - ミカヅキ-「め」弾き語りver.<br>00:57:10 LITE - Infinite Mirror</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.6/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/44a74630f80a486a9a5b0a54d1d6be11--202501121416491736691409.mp3" length="94732243" type="audio/mpeg" />
+    <guid isPermaLink="false">44a74630f80a486a9a5b0a54d1d6be11</guid>
+    <pubDate>Sun, 12 Jan 2025 22:33:33 +0800</pubDate>
+    <itunes:duration>01:03:30</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/06.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Vol.5 富士摇滚音乐节能好怎</itunes:title>
+    <title>Vol.5 富士摇滚音乐节能好怎</title>
+    <itunes:summary><![CDATA[<p>音乐祭丨夜夜想起FUJI ROCK的话，闪闪的泪光撒库拉<br><br><strong>本期嘉宾</strong>：泡面+碳<br><strong>本期主播</strong>：文森<br><br>恰逢Spotify推出年度盘点之际，播客第五期横空出世。音乐祭是我们的新系列，本系列节目会邀请各种与音乐节有所渊源的朋友来分享讨论，关于攻略、趣事、美食等一系列真实经历过的事。音乐节已是一种夏日的风物诗，在寒冷的冬天里，来听听那些被凶猛的太阳所连接的爱吧。<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:00:42 本系列的简介及初衷<br>00:01:58 泡面-社畜兼演出摄影的音乐节初体验<br>00:05:21 碳-萌新演出从业人员的音乐节初体验<br>00:08:58 都市型音乐节在中日的不同现状<br>00:13:46 音乐节定价掀起的风波<br>00:17:38 音乐节划算与否小算法<br>00:22:10 我们与富士摇滚<br>00:27:13 泡面的FUJI ROCK 2017<br>00:35:06 文森的FUJI ROCK 2021<br>00:50:23 FUJI的那些障碍与挑战<br>00:54:59 FUJI，绝不止于音乐节<br>00:59:07 前往FUJI交通方法ABC<br>01:02:56 FUJI的国际性与包容性<br>01:05:23 总共花了多少钱<br>01:07:11 FUJI能吃吗好吃吗怎么吃<br>01:08:07 偶遇yonige，满岛光和徐波<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00:00 RADWIMPS - SUMMER DAZE<br>00:43:00 RADWIMPS - スパークル (FUJI ROCK 2021)<br>01:10:49 Fuji Fabric - Sugar!!</p>]]></itunes:summary>
+    <description><![CDATA[<p>音乐祭丨夜夜想起FUJI ROCK的话，闪闪的泪光撒库拉<br><br><strong>本期嘉宾</strong>：泡面+碳<br><strong>本期主播</strong>：文森<br><br>恰逢Spotify推出年度盘点之际，播客第五期横空出世。音乐祭是我们的新系列，本系列节目会邀请各种与音乐节有所渊源的朋友来分享讨论，关于攻略、趣事、美食等一系列真实经历过的事。音乐节已是一种夏日的风物诗，在寒冷的冬天里，来听听那些被凶猛的太阳所连接的爱吧。<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:00:42 本系列的简介及初衷<br>00:01:58 泡面-社畜兼演出摄影的音乐节初体验<br>00:05:21 碳-萌新演出从业人员的音乐节初体验<br>00:08:58 都市型音乐节在中日的不同现状<br>00:13:46 音乐节定价掀起的风波<br>00:17:38 音乐节划算与否小算法<br>00:22:10 我们与富士摇滚<br>00:27:13 泡面的FUJI ROCK 2017<br>00:35:06 文森的FUJI ROCK 2021<br>00:50:23 FUJI的那些障碍与挑战<br>00:54:59 FUJI，绝不止于音乐节<br>00:59:07 前往FUJI交通方法ABC<br>01:02:56 FUJI的国际性与包容性<br>01:05:23 总共花了多少钱<br>01:07:11 FUJI能吃吗好吃吗怎么吃<br>01:08:07 偶遇yonige，满岛光和徐波<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00:00 RADWIMPS - SUMMER DAZE<br>00:43:00 RADWIMPS - スパークル (FUJI ROCK 2021)<br>01:10:49 Fuji Fabric - Sugar!!</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.5/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/e7da80670f8e426eaacbed6181630337--202412050548351733377715.mp3" length="99020574" type="audio/mpeg" />
+    <guid isPermaLink="false">e7da80670f8e426eaacbed6181630337</guid>
+    <pubDate>Thu, 5 Dec 2024 17:00:00 +0800</pubDate>
+    <itunes:duration>01:15:00</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/05.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Vol.4 听歌部部员们的入坑经历 ③</itunes:title>
+    <title>Vol.4 听歌部部员们的入坑经历 ③</title>
+    <itunes:summary><![CDATA[<p>听歌部部员们的某些入坑经历 其三<br><br><strong>本期嘉宾</strong>：碳+咩+雀<br><strong>本期主播</strong>：文森+板板<br><br>查看录音文件的创建日期时，才发现已经是2022年夏天的事了，那时候江浙沪的天气大火猛烤，这期播客的三位嘉宾也都很巧合地就读于杭州。大家调侃着天气和疫情。拖了太久，以至于重新着手时很难厘清工程，但把开头确定之后，再剪辑的时候听着还是很开心。“丢掉音乐吧，然后再向着音乐走去”。<br>以及金坷垃：BV13s411278X<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:04 碳-大象体操领进门的邦摇宇宙<br>20:53 咩-在火车上听YUI才是正经事<br>42:39 雀-王牛吃绿苹果时踩到了好石头<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 ent - Sleeping Ghosts<br>13:29 凛として時雨 - moment A rhythm (short ver.)<br>26:41 YUI - TOKYO (THE FIRST TAKE Studio Ver.)<br>38:13 YUI - LIFE<br>49:56 King Gnu - The hole<br>53:07 ONE OK ROCK - エトセトラ</p>]]></itunes:summary>
+    <description><![CDATA[<p>听歌部部员们的某些入坑经历 其三<br><br><strong>本期嘉宾</strong>：碳+咩+雀<br><strong>本期主播</strong>：文森+板板<br><br>查看录音文件的创建日期时，才发现已经是2022年夏天的事了，那时候江浙沪的天气大火猛烤，这期播客的三位嘉宾也都很巧合地就读于杭州。大家调侃着天气和疫情。拖了太久，以至于重新着手时很难厘清工程，但把开头确定之后，再剪辑的时候听着还是很开心。“丢掉音乐吧，然后再向着音乐走去”。<br>以及金坷垃：BV13s411278X<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:04 碳-大象体操领进门的邦摇宇宙<br>20:53 咩-在火车上听YUI才是正经事<br>42:39 雀-王牛吃绿苹果时踩到了好石头<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 ent - Sleeping Ghosts<br>13:29 凛として時雨 - moment A rhythm (short ver.)<br>26:41 YUI - TOKYO (THE FIRST TAKE Studio Ver.)<br>38:13 YUI - LIFE<br>49:56 King Gnu - The hole<br>53:07 ONE OK ROCK - エトセトラ</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.4/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/3d668a2dbd1d4f77bbd65731f49a8902--202411200838021732091882.mp3" length="80541584" type="audio/mpeg" />
+    <guid isPermaLink="false">3d668a2dbd1d4f77bbd65731f49a8902</guid>
+    <pubDate>Wed, 20 Nov 2024 17:00:00 +0800</pubDate>
+    <itunes:duration>59:31</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/04.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Vol.3 听歌部部员们的入坑经历 ②</itunes:title>
+    <title>Vol.3 听歌部部员们的入坑经历 ②</title>
+    <itunes:summary><![CDATA[<p>听歌部部员们的某些入坑经历 其二<br><br><strong>本期嘉宾</strong>：文森+千秋+浪姐<br><strong>本期主播</strong>：板板<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:29 文森-热血青年的青春生活<br>15:16 千秋-文艺青年的青春生活<br>34:01 浪姐-叛逆青年的青春生活<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 GOMES THE HITMAN - 溶けて死ぬのさ(2022version)<br>04:17 ELLEGARDEN - Salamander<br>09:38 ELLEGARDEN - The Autumn Song<br>19:21 いきものがかり - 花は桜 君は美し<br>26:48 いきものがかり - SAKURA<br>34:56 ASIAN KUNG-FU GENERATION - 遥か彼方<br>48:27 ASIAN KUNG-FU GENERATION - 迷子犬と雨のビート</p>]]></itunes:summary>
+    <description><![CDATA[<p>听歌部部员们的某些入坑经历 其二<br><br><strong>本期嘉宾</strong>：文森+千秋+浪姐<br><strong>本期主播</strong>：板板<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:29 文森-热血青年的青春生活<br>15:16 千秋-文艺青年的青春生活<br>34:01 浪姐-叛逆青年的青春生活<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 GOMES THE HITMAN - 溶けて死ぬのさ(2022version)<br>04:17 ELLEGARDEN - Salamander<br>09:38 ELLEGARDEN - The Autumn Song<br>19:21 いきものがかり - 花は桜 君は美し<br>26:48 いきものがかり - SAKURA<br>34:56 ASIAN KUNG-FU GENERATION - 遥か彼方<br>48:27 ASIAN KUNG-FU GENERATION - 迷子犬と雨のビート</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.3/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/f0691b37b44c4adc8f10bcc5129c59e4--202409141644281726332268.mp3" length="79694254" type="audio/mpeg" />
+    <guid isPermaLink="false">63612feaf4fef80011976b73</guid>
+    <pubDate>Tue, 01 Nov 2022 15:01:50 +0800</pubDate>
+    <itunes:duration>55:41</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/03.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Vol.2 意外的乐队与意外的歌曲 ①</itunes:title>
+    <title>Vol.2 意外的乐队与意外的歌曲 ①</title>
+    <itunes:summary><![CDATA[<p>这场二次元Party是谁还没入场 其一<br><br><strong>本期嘉宾</strong>：板板+千秋+浪姐+文森<br><strong>本期主播</strong>：文森<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:54 板板-PSYCHO PASS和NCIS<br>11:33 千秋-TOKYO GHOUL和PITB<br>29:13 浪姐-ULTRASEVEN X和PTP<br>35:41 文森-C和SFP和NTtW<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 根岸貴幸 - 封印解除<br>10:02 Nothing's Carved In Stone - Out of Control -アニメバージョン-<br>13:11 People In The Box - 聖者たち (TV edit)<br>30:18 Pay money To my Pain - Another day comes (TV SIZE)<br>36:10 School Food Punishment - RPG (TV size)<br>50:03 NICO Touches the Walls - マトリョーシカ (TV Version)</p>]]></itunes:summary>
+    <description><![CDATA[<p>这场二次元Party是谁还没入场 其一<br><br><strong>本期嘉宾</strong>：板板+千秋+浪姐+文森<br><strong>本期主播</strong>：文森<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>01:54 板板-PSYCHO PASS和NCIS<br>11:33 千秋-TOKYO GHOUL和PITB<br>29:13 浪姐-ULTRASEVEN X和PTP<br>35:41 文森-C和SFP和NTtW<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 根岸貴幸 - 封印解除<br>10:02 Nothing's Carved In Stone - Out of Control -アニメバージョン-<br>13:11 People In The Box - 聖者たち (TV edit)<br>30:18 Pay money To my Pain - Another day comes (TV SIZE)<br>36:10 School Food Punishment - RPG (TV size)<br>50:03 NICO Touches the Walls - マトリョーシカ (TV Version)</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.2/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/a4a984ee0203457493422dd45b81733c--202409141643251726332205.mp3" length="68198639" type="audio/mpeg" />
+    <guid isPermaLink="false">632db64dea0edf001220b03f</guid>
+    <pubDate>Fri, 23 Sep 2022 14:00:00 +0800</pubDate>
+    <itunes:duration>51:34</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/02.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <itunes:title>Vol.1 听歌部部员们的入坑经历 ①</itunes:title>
+    <title>Vol.1 听歌部部员们的入坑经历 ①</title>
+    <itunes:summary><![CDATA[<p>听歌部部员们的某些入坑经历 其一<br><br><strong>本期嘉宾</strong>：洋葱+衣者+板板<br><strong>本期主播</strong>：文森+浪姐<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:56 洋葱-学校生活里的小规模逃离<br>18:02 衣者-非典型乐迷从日剧出发的音乐探险<br>35:47 板板-一个二次元的升级之路<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 PUFFY - MOTHER (オリジナル・カラオケ)<br>02:58 ONE OK ROCK - ONION!<br>07:56 Pay money To my Pain - Voice〈P.T.P×Taka from ONE OK ROCK〉<br>12:17 Pay money To my Pain - Home<br>20:20 ストレイテナー - The Place Has No Name<br>22:38 ストレイテナー - From Noon Till Dawn<br>26:27 Nothing's Carved In Stone - November 15th<br>31:00 ストレイテナー - Lightning<br>41:36 古川本舗 - 月光食堂<br>44:17 Suchmos - Miree (BAY ver.)<br>50:01 放課後ティータイム - NO, Thank You! (TV size Ver.)</p>]]></itunes:summary>
+    <description><![CDATA[<p>听歌部部员们的某些入坑经历 其一<br><br><strong>本期嘉宾</strong>：洋葱+衣者+板板<br><strong>本期主播</strong>：文森+浪姐<br><br>在<a href="https://nonfm.onrender.com">各大平台</a>搜索“<strong>nonrockradio</strong>”即可订阅：<br>Spotify | Apple Podcast | 小宇宙 | 网易云音乐 | 荔枝 | <strong>其他泛用性客户端</strong><br><br>RSS订阅：https://nonfm.onrender.com/feed.xml<br>若有任何想法，欢迎来信畅谈：<a href="https://letterbird.co/non">letterbird.co/non</a><br><br><strong>时间点</strong>：<br>00:56 洋葱-学校生活里的小规模逃离<br>18:02 衣者-非典型乐迷从日剧出发的音乐探险<br>35:47 板板-一个二次元的升级之路<br><br>音频剪辑：千秋<br><br><strong>使用歌曲</strong>：<br>00:00 PUFFY - MOTHER (オリジナル・カラオケ)<br>02:58 ONE OK ROCK - ONION!<br>07:56 Pay money To my Pain - Voice〈P.T.P×Taka from ONE OK ROCK〉<br>12:17 Pay money To my Pain - Home<br>20:20 ストレイテナー - The Place Has No Name<br>22:38 ストレイテナー - From Noon Till Dawn<br>26:27 Nothing's Carved In Stone - November 15th<br>31:00 ストレイテナー - Lightning<br>41:36 古川本舗 - 月光食堂<br>44:17 Suchmos - Miree (BAY ver.)<br>50:01 放課後ティータイム - NO, Thank You! (TV size Ver.)</p>]]></description>
+    <link>https://nonfm.onrender.com/blog/vol.1/</link>
+    <itunes:author>nonrockradio</itunes:author>
+    <enclosure url="https://dts.podtrac.com/redirect.mp3/baabao-episode-stream-set.s3.amazonaws.com/be477857a006442bbf4d99593d59a19a--202409141639401726331980.mp3" length="72415686" type="audio/mpeg" />
+    <guid isPermaLink="false">62b88cf9d8176e001321a193</guid>
+    <pubDate>Sat, 18 Jun 2022 04:21:00 +0800</pubDate>
+    <itunes:duration>51:34</itunes:duration>
+    <itunes:image href="https://i1.wp.com/raw.githubusercontent.com/nonfm/blog/master/img/01.jpg"/>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
