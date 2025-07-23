@@ -10,7 +10,7 @@ body {
   align-items: center;
   display: flex;
   flex-direction: column;
-  font-family: "Yozai", Yozai-Bold;
+  font-family: "Yozai", "Yozai-Bold", "Noto Sans SC", "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei";
   margin: 0;
   min-height: 100vh;
   padding: 20px 0;
