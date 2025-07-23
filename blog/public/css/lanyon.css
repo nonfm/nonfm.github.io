@@ -39,15 +39,15 @@
 html,
 body {
   overflow-x: hidden;
-  font-family: "思源屏显臻宋", "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
 }
 
 html {
-  font-family: "思源屏显臻宋", "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "思源屏显臻宋", "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -150,7 +150,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 15rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "思源屏显臻宋", "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   background-color: #202020;
@@ -353,7 +353,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "思源屏显臻宋", "Source Han Serif CN for Display", "Noto Sans CJK SC", "Source Han Sans SC", "Source Han Sans CN", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", serif !important;
+  font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
   color: #ccc;
   text-align: center;
 }
