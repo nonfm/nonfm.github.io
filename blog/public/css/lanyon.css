@@ -146,8 +146,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   top: 0;
   bottom: 0;
-  left: -15rem;
-  width: 15rem;
+  left: -16rem; /* 侧边栏隐藏时的位置 */
+  width: 16rem; /* 这里是侧边栏的宽度 */
   visibility: hidden;
   overflow-y: auto;
   font-family: "Source Han Serif CN for Display", "Noto Serif CJK SC", "Source Han Serif SC", "Noto Serif CJK JP", "Source Han Serif JP", "PingFang SC", "Microsoft YaHei", serif !important;
@@ -296,9 +296,9 @@ a.sidebar-nav-item:focus {
 #sidebar-checkbox:checked ~ .sidebar,
 #sidebar-checkbox:checked ~ .wrap,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(15rem);
-      -ms-transform: translateX(15rem);
-          transform: translateX(15rem);
+  -webkit-transform: translateX(16remm); /* 这里的数值也要和上面宽度保持一致 */
+      -ms-transform: translateX(16rem);
+          transform: translateX(16rem);
 }
 
 
@@ -413,9 +413,9 @@ a.pagination-item:hover {
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar,
 .layout-reverse #sidebar-checkbox:checked ~ .wrap,
 .layout-reverse #sidebar-checkbox:checked ~ .sidebar-toggle {
-  -webkit-transform: translateX(-15rem);
-      -ms-transform: translateX(-15rem);
-          transform: translateX(-15rem);
+  -webkit-transform: translateX(-16rem); /* 这里的数值也要和上面宽度保持一致 */
+      -ms-transform: translateX(-16rem);
+          transform: translateX(-16rem);
 }
 
 
